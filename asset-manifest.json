@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Upasana0710/Todo-List-App/static/css/main.8d38473b.css",
+    "main.js": "/Upasana0710/Todo-List-App/static/js/main.db4e155e.js",
+    "index.html": "/Upasana0710/Todo-List-App/index.html",
+    "main.8d38473b.css.map": "/Upasana0710/Todo-List-App/static/css/main.8d38473b.css.map",
+    "main.db4e155e.js.map": "/Upasana0710/Todo-List-App/static/js/main.db4e155e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d38473b.css",
+    "static/js/main.db4e155e.js"
+  ]
+}
