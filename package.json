@@ -1,7 +1,7 @@
 {
   "name": "todo-list",
   "version": "0.1.0",
-  "homepage": "https://github.com/Upasana0710/Todo-List-App",
+  "homepage": "https://Upasana0710.github.io/Todo-List-App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
