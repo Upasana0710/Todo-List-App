@@ -2,8 +2,8 @@
 This is a Todo Web App using React Js.
 
 
-<img align="center" alt="" src="./Img/Todo Img 1.png">
 <img align="center" alt="" src="./Img/todo png 2.png">
+<img align="center" alt="" src="./Img/Todo Img 1.png">
 <img align="center" alt="" src="./Img/Todo Png Img.png">
 
 
